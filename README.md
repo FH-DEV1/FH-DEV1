@@ -24,8 +24,8 @@ I'm a 17-year-old developer from France with a passion for web development and e
 - ![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat&logo=markdown)
 
 ## GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FH-DEV1&theme=dark&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FH-DEV1&theme=dark&hide_border=true&layout=compact)
+![FH-DEV1 GitHub stats](https://github-readme-stats.vercel.app/api?username=FH-DEV1&show_icons=true&theme=transparent&hide=contribs&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FH-DEV1&theme=transparent&hide_border=true&layout=compact&hide_title=true)
 
 ## Quote
 "Code is like humor. When you have to explain it, it’s bad." — Cory House
