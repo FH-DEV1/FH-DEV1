@@ -2,6 +2,7 @@
 I'm a 17-year-old developer from France with a passion for web development and ethical hacking. I enjoy learning and tackling challenges on platforms like Root-Me. While I'm still honing my skills, I’m always eager to help others who are just starting out.
 
 ## Connect with Me
+- **Website:** [fhdev.vercel.app](https://fhdev.vercel.app)
 - **Discord:** [fh.dev](https://discordapp.com/users/854022397035020338)
 - **Email:** FHDEV@proton.me
 - **Root-Me Profile:** [FH-Dev](https://www.root-me.org/FH-Dev)
